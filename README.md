@@ -44,7 +44,9 @@ Deleted At - datetime
 
 # Screens and Features
 * [ ] User Authentication and Authorization
-  * [x] Develop a user authentication system using OAuth 2.0 (e.g., Sign In and Sign Up) 
+  * [x] Develop a user authentication system using OAuth 2.0 
+    * [x] Sign In
+    * [x] Sign Up  
   * [ ] OTP for Email and Phone 
   * [ ] Implement role-based access control for different user types (e.g., mechanics, shop_owners, customers)
   
