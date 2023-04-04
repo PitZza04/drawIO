@@ -5,8 +5,8 @@ Created At - datetime
 Updated At - datetime
 Deleted At - datetime
 # Create Entity Relationship Diagram
-* [ ] Database Schema - Partial
-* [ ] Database Model - Partial
+* [ ] Database Schema - Draft
+* [ ] Database Model - Draft
 
 # Entities in an Automate Mobile App
 * [x] User
@@ -31,8 +31,8 @@ Deleted At - datetime
   * [ ] Services Category 
   * [ ] Services
 # Database (Supabase & Postgresql)
-* [ ] Database Schema - Partial or Draft
-* [ ] Entity Relationship Diagram - Partial or Draft
+* [ ] Database Schema - Draft
+* [ ] Entity Relationship Diagram - Draft
 
 # Seed Databases
   * [x] Address
@@ -63,7 +63,7 @@ Deleted At - datetime
  
 * [ ] Home Screen (Emergency Type, Services - parent category)
   * [x] Load and Display Emergency
-  * [x] Load and Display Services
+  * [x] Load and Display Services 
   * [x] Cache Emergency and Services Data
 
 * [ ] Services Screen/Section (Services - parent category and sub-category, Vehicle, Cart, Shop, )
@@ -72,12 +72,15 @@ Deleted At - datetime
   * [ ] Allow User to select vehicle from it's list.
   * [ ] Saved to database either from Cart or Shop Order
 * Profile Screen 
+  * [x] Allow User to Logout
   * [ ] Display User Information
   * [ ] Allow User to Update its Info
   * [ ] Display User vehicles
   * [ ] Allow User to add or update Vehicles
-  * [x] Allow User to Logout
-
+  
+* User Cart Screen
+  * [ ] Load and Display Cart Items
+* 
 
 * [ ] Shop Management System
   * [ ] Develop a backend system for creating and managing shops 
