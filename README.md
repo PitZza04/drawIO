@@ -21,13 +21,25 @@ Deleted At - datetime
 * [ ] Quotation
 * [ ] Shop
 * [ ] Shop Location
-
+* [ ] Cart
+* [ ] Cart Item
 # Seed Databases
   * [x] Address
   * [x] Brand & Model
   * [x] Car Assets
   * [ ] Emergencies Type
   * [ ] Services Category 
+  * [ ] Services
+# Database (Supabase & Postgresql)
+* [ ] Database Schema - Partial or Draft
+* [ ] Entity Relationship Diagram - Partial or Draft
+
+# Seed Databases
+  * [x] Address
+  * [x] Brand & Model
+  * [x] Brand logo and Model images
+  * [x] Emergencies Type
+  * [ ] Services Category - Partial
   * [ ] Services
 
 # Screens and Features
@@ -42,20 +54,26 @@ Deleted At - datetime
   * [ ] Identification Validation  
 
 * [ ] Vehicle Register Screen (Brand, Model) 
-  * [ ] Load Brand data and images
-  * [ ] Load Model data and images
-  * [ ] Cache Brand and Model data
+  * [x] Load Brand data and images
+  * [x] Load Model data and images
+  * [x] Cache Brand and Model data
   * [ ] Saved to database
  
-* [ ] Home Screen (Emergency Type, Services - parent category, )
-  * [ ] Load and Display Emergency
-  * [ ] Load and Display Services
-  * [ ] Cache Emergency and Services Data
+* [ ] Home Screen (Emergency Type, Services - parent category)
+  * [x] Load and Display Emergency
+  * [x] Load and Display Services
+  * [x] Cache Emergency and Services Data
 
-
+* [ ] Services Screen/Section (Services - parent category and sub-category, User => Vehicle, Cart, Shop)
+  * [ ] Load and Display Services Parent Category - Partial
+  * [ ] Load and Display Services Details (e.g., Description, Images, Price)
+  * [ ] Allow User to select vehicle from it's list.
+  * [ ] Saved to database either from Cart or Shop Order
+ 
+  
 * [ ] Shop Management System
-  * [x] Develop a backend system for creating and managing shops 
-  * [x] Implement database schema and APIs for shop creation, editing, and deletion
+  * [ ] Develop a backend system for creating and managing shops 
+  * [ ] Implement database schema and APIs for shop creation, editing, and deletion
 
 # API Endpoints
 * [ ] User
