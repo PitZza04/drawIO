@@ -55,11 +55,11 @@ Deleted At - datetime
   * [ ] Populate City and Barangay based on User selects.
   * [ ] Identification Validation  
 
-* [ ] Vehicle Register Screen (Brand, Model) 
+* [ ] Vehicle Register Screen (Brand, Model, Vehicle) 
   * [x] Load Brand data and images
   * [x] Load Model data and images
   * [x] Cache Brand and Model data
-  * [ ] Saved to database
+  * [ ] Once User submit, save to Vehicle Table.
  
 * [ ] Home Screen (Emergency Type, Services - parent category)
   * [x] Load and Display Emergency
