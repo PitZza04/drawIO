@@ -56,8 +56,8 @@ Deleted At - datetime
   * [ ] Identification Validation  
 
 * [ ] Vehicle Register Screen (Brand, Model, Vehicle) 
-  * [x] Load Brand data and images
-  * [x] Load Model data and images
+  * [x] Load and Display Brand data and images
+  * [x] Load and Display Model data and images
   * [x] Cache Brand and Model data
   * [ ] Once User submit, save to Vehicle Table.
  
@@ -66,16 +66,23 @@ Deleted At - datetime
   * [x] Load and Display Services
   * [x] Cache Emergency and Services Data
 
-* [ ] Services Screen/Section (Services - parent category and sub-category, User => Vehicle, Cart, Shop)
+* [ ] Services Screen/Section (Services - parent category and sub-category, Vehicle, Cart, Shop, )
   * [ ] Load and Display Services Parent Category - Partial
   * [ ] Load and Display Services Details (e.g., Description, Images, Price)
   * [ ] Allow User to select vehicle from it's list.
   * [ ] Saved to database either from Cart or Shop Order
- 
-  
+* Profile Screen 
+  * [ ] Display User Information
+  * [ ] Allow User to Update its Info
+  * [ ] Display User vehicles
+  * [ ] Allow User to add or update Vehicles
+  * [x] Allow User to Logout
+
+
 * [ ] Shop Management System
   * [ ] Develop a backend system for creating and managing shops 
   * [ ] Implement database schema and APIs for shop creation, editing, and deletion
+  * [ ] Allow shops to create services to offered in shop.
 
 # API Endpoints
 * [ ] User
